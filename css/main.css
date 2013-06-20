@@ -1,0 +1,5 @@
+html, body {padding: 0; margin: 0; }
+body {background-color: black; color: white; font-family: Tahoma;  }
+
+#mapHolder {width: 980px; height: 350px; margin: 70px auto 0 auto; }
+
